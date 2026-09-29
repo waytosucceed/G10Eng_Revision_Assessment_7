@@ -1,0 +1,538 @@
+{
+  "heading": "Assessment",
+  "topics": [
+    
+  
+  {
+    "heading": "Claims and Their Evidence",
+    "questions": [
+      {
+        "questionNo": 1,
+        "story": "<b>On Learning an Instrument</b><br><br><b>Passage 1</b><br>There is no better use of a young person’s evening than an hour spent with a musical instrument. Music is not a hobby to be picked up when homework allows. It is a discipline, and every child who is denied it will grow into an adult poorer in every faculty that matters. Schools that treat music as an optional extra have simply not understood what they are dealing with.<br><br><b>Passage 2</b><br>The evidence is considerable. A 2019 study at the University of Helsinki followed one thousand two hundred pupils over six years and found that those receiving weekly instrumental tuition scored nineteen per cent higher in working memory tests than those who did not. A separate report by the National Foundation for Educational Research in 2021 recorded improved concentration in the same group across unrelated subjects.<br><br><b>Passage 3</b><br>Music teachers will also tell you that they can sense at once which children practise at home, and this impression is widely shared in the profession. Parents often remark that their children seem calmer after a lesson. It is worth adding that the violin in its modern form was developed in northern Italy during the sixteenth century, and that the instruments of that period are still admired for their varnish and their scroll work.<br><br><b>Passage 4</b><br>Against all this stands the lazy, corrosive fashion for letting children abandon an instrument the moment it becomes difficult. Every parent who permits this is teaching a child that effort is optional. Naturally, any thoughtful person already accepts that persistence must be taught young. Those who disagree have evidently not considered the matter seriously, for the case has always been perfectly plain.",
+        "question": "Which of the following statements from the text is a claim rather than a fact?",
+        "options": [
+          {
+            "text": "A 2019 study at the University of Helsinki followed one thousand two hundred pupils over six years."
+          },
+          {
+            "text": "Pupils receiving weekly tuition scored nineteen per cent higher in working memory tests."
+          },
+          {
+            "text": "The violin in its modern form was developed in northern Italy during the sixteenth century."
+          },
+          {
+            "text": "There is no better use of a young person’s evening than an hour spent with a musical instrument."
+          }
+        ],
+        "answer": 3
+      },
+      {
+        "questionNo": 2,
+        "story": "<b>On Learning an Instrument</b><br><br><b>Passage 1</b><br>There is no better use of a young person’s evening than an hour spent with a musical instrument. Music is not a hobby to be picked up when homework allows. It is a discipline, and every child who is denied it will grow into an adult poorer in every faculty that matters. Schools that treat music as an optional extra have simply not understood what they are dealing with.<br><br><b>Passage 2</b><br>The evidence is considerable. A 2019 study at the University of Helsinki followed one thousand two hundred pupils over six years and found that those receiving weekly instrumental tuition scored nineteen per cent higher in working memory tests than those who did not. A separate report by the National Foundation for Educational Research in 2021 recorded improved concentration in the same group across unrelated subjects.<br><br><b>Passage 3</b><br>Music teachers will also tell you that they can sense at once which children practise at home, and this impression is widely shared in the profession. Parents often remark that their children seem calmer after a lesson. It is worth adding that the violin in its modern form was developed in northern Italy during the sixteenth century, and that the instruments of that period are still admired for their varnish and their scroll work.<br><br><b>Passage 4</b><br>Against all this stands the lazy, corrosive fashion for letting children abandon an instrument the moment it becomes difficult. Every parent who permits this is teaching a child that effort is optional. Naturally, any thoughtful person already accepts that persistence must be taught young. Those who disagree have evidently not considered the matter seriously, for the case has always been perfectly plain.",
+        "question": "Which of the following is the strongest evidence the writer provides for the central claim?",
+        "options": [
+          {
+            "text": "Music teachers say they can sense at once which children practise at home."
+          },
+          {
+            "text": "A 2019 Helsinki study of one thousand two hundred pupils over six years recorded a nineteen per cent advantage in working memory tests."
+          },
+          {
+            "text": "Parents often remark that their children seem calmer after a lesson."
+          },
+          {
+            "text": "Instruments from sixteenth-century Italy are still admired for their varnish."
+          }
+        ],
+        "answer": 1
+      },
+      {
+        "questionNo": 3,
+        "story": "<b>On Learning an Instrument</b><br><br><b>Passage 1</b><br>There is no better use of a young person’s evening than an hour spent with a musical instrument. Music is not a hobby to be picked up when homework allows. It is a discipline, and every child who is denied it will grow into an adult poorer in every faculty that matters. Schools that treat music as an optional extra have simply not understood what they are dealing with.<br><br><b>Passage 2</b><br>The evidence is considerable. A 2019 study at the University of Helsinki followed one thousand two hundred pupils over six years and found that those receiving weekly instrumental tuition scored nineteen per cent higher in working memory tests than those who did not. A separate report by the National Foundation for Educational Research in 2021 recorded improved concentration in the same group across unrelated subjects.<br><br><b>Passage 3</b><br>Music teachers will also tell you that they can sense at once which children practise at home, and this impression is widely shared in the profession. Parents often remark that their children seem calmer after a lesson. It is worth adding that the violin in its modern form was developed in northern Italy during the sixteenth century, and that the instruments of that period are still admired for their varnish and their scroll work.<br><br><b>Passage 4</b><br>Against all this stands the lazy, corrosive fashion for letting children abandon an instrument the moment it becomes difficult. Every parent who permits this is teaching a child that effort is optional. Naturally, any thoughtful person already accepts that persistence must be taught young. Those who disagree have evidently not considered the matter seriously, for the case has always been perfectly plain.",
+        "question": "Which of the following is the weakest evidence in the passage?",
+        "options": [
+          {
+            "text": "The National Foundation for Educational Research recorded improved concentration in 2021."
+          },
+          {
+            "text": "Pupils receiving tuition scored nineteen per cent higher in working memory tests."
+          },
+          {
+            "text": "Teachers say they can sense which children practise, and parents say their children seem calmer."
+          },
+          {
+            "text": "The Helsinki study followed its pupils across six years."
+          }
+        ],
+        "answer": 2
+      },
+      {
+        "questionNo": 4,
+        "story": "<b>On Learning an Instrument</b><br><br><b>Passage 1</b><br>There is no better use of a young person’s evening than an hour spent with a musical instrument. Music is not a hobby to be picked up when homework allows. It is a discipline, and every child who is denied it will grow into an adult poorer in every faculty that matters. Schools that treat music as an optional extra have simply not understood what they are dealing with.<br><br><b>Passage 2</b><br>The evidence is considerable. A 2019 study at the University of Helsinki followed one thousand two hundred pupils over six years and found that those receiving weekly instrumental tuition scored nineteen per cent higher in working memory tests than those who did not. A separate report by the National Foundation for Educational Research in 2021 recorded improved concentration in the same group across unrelated subjects.<br><br><b>Passage 3</b><br>Music teachers will also tell you that they can sense at once which children practise at home, and this impression is widely shared in the profession. Parents often remark that their children seem calmer after a lesson. It is worth adding that the violin in its modern form was developed in northern Italy during the sixteenth century, and that the instruments of that period are still admired for their varnish and their scroll work.<br><br><b>Passage 4</b><br>Against all this stands the lazy, corrosive fashion for letting children abandon an instrument the moment it becomes difficult. Every parent who permits this is teaching a child that effort is optional. Naturally, any thoughtful person already accepts that persistence must be taught young. Those who disagree have evidently not considered the matter seriously, for the case has always been perfectly plain.",
+        "question": "Which part of the passage is off-topic evidence?",
+        "options": [
+          {
+            "text": "The working memory figures from the Helsinki study"
+          },
+          {
+            "text": "The account of the violin’s development in Italy and the varnish on period instruments"
+          },
+          {
+            "text": "The National Foundation findings on concentration"
+          },
+          {
+            "text": "The statement that music is a discipline rather than a hobby"
+          }
+        ],
+        "answer": 1
+      },
+      {
+        "questionNo": 5,
+        "story": "<b>On Learning an Instrument</b><br><br><b>Passage 1</b><br>There is no better use of a young person’s evening than an hour spent with a musical instrument. Music is not a hobby to be picked up when homework allows. It is a discipline, and every child who is denied it will grow into an adult poorer in every faculty that matters. Schools that treat music as an optional extra have simply not understood what they are dealing with.<br><br><b>Passage 2</b><br>The evidence is considerable. A 2019 study at the University of Helsinki followed one thousand two hundred pupils over six years and found that those receiving weekly instrumental tuition scored nineteen per cent higher in working memory tests than those who did not. A separate report by the National Foundation for Educational Research in 2021 recorded improved concentration in the same group across unrelated subjects.<br><br><b>Passage 3</b><br>Music teachers will also tell you that they can sense at once which children practise at home, and this impression is widely shared in the profession. Parents often remark that their children seem calmer after a lesson. It is worth adding that the violin in its modern form was developed in northern Italy during the sixteenth century, and that the instruments of that period are still admired for their varnish and their scroll work.<br><br><b>Passage 4</b><br>Against all this stands the lazy, corrosive fashion for letting children abandon an instrument the moment it becomes difficult. Every parent who permits this is teaching a child that effort is optional. Naturally, any thoughtful person already accepts that persistence must be taught young. Those who disagree have evidently not considered the matter seriously, for the case has always been perfectly plain.",
+        "question": "Which of the following correctly analyses how the Helsinki study connects to the writer’s claim?",
+        "options": [
+          {
+            "text": "The study proves the claim because universities never publish inaccurate findings."
+          },
+          {
+            "text": "The study simply restates the claim in numerical form and therefore adds nothing."
+          },
+          {
+            "text": "The study does not connect to the claim, because working memory is only one small part of a person."
+          },
+          {
+            "text": "The study measures a specific mental faculty across a large group over several years, which demonstrates the kind of developmental benefit the claim depends on."
+          }
+        ],
+        "answer": 3
+      }
+    ]
+  },
+  {
+    "heading": "Identifying Bias",
+    "questions": [
+      {
+        "questionNo": 6,
+        "story": "<b>On Learning an Instrument</b><br><br><b>Passage 1</b><br>There is no better use of a young person’s evening than an hour spent with a musical instrument. Music is not a hobby to be picked up when homework allows. It is a discipline, and every child who is denied it will grow into an adult poorer in every faculty that matters. Schools that treat music as an optional extra have simply not understood what they are dealing with.<br><br><b>Passage 2</b><br>The evidence is considerable. A 2019 study at the University of Helsinki followed one thousand two hundred pupils over six years and found that those receiving weekly instrumental tuition scored nineteen per cent higher in working memory tests than those who did not. A separate report by the National Foundation for Educational Research in 2021 recorded improved concentration in the same group across unrelated subjects.<br><br><b>Passage 3</b><br>Music teachers will also tell you that they can sense at once which children practise at home, and this impression is widely shared in the profession. Parents often remark that their children seem calmer after a lesson. It is worth adding that the violin in its modern form was developed in northern Italy during the sixteenth century, and that the instruments of that period are still admired for their varnish and their scroll work.<br><br><b>Passage 4</b><br>Against all this stands the lazy, corrosive fashion for letting children abandon an instrument the moment it becomes difficult. Every parent who permits this is teaching a child that effort is optional. Naturally, any thoughtful person already accepts that persistence must be taught young. Those who disagree have evidently not considered the matter seriously, for the case has always been perfectly plain.",
+        "question": "Which sentence from the passage is the clearest example of loaded language?",
+        "options": [
+          {
+            "text": "\"A 2019 study at the University of Helsinki followed one thousand two hundred pupils over six years.\""
+          },
+          {
+            "text": "\"Against all this stands the lazy, corrosive fashion for letting children abandon an instrument.\""
+          },
+          {
+            "text": "\"The violin in its modern form was developed in northern Italy.\""
+          },
+          {
+            "text": "\"A separate report recorded improved concentration across unrelated subjects.\""
+          }
+        ],
+        "answer": 1
+      },
+      {
+        "questionNo": 7,
+        "story": "<b>On Learning an Instrument</b><br><br><b>Passage 1</b><br>There is no better use of a young person’s evening than an hour spent with a musical instrument. Music is not a hobby to be picked up when homework allows. It is a discipline, and every child who is denied it will grow into an adult poorer in every faculty that matters. Schools that treat music as an optional extra have simply not understood what they are dealing with.<br><br><b>Passage 2</b><br>The evidence is considerable. A 2019 study at the University of Helsinki followed one thousand two hundred pupils over six years and found that those receiving weekly instrumental tuition scored nineteen per cent higher in working memory tests than those who did not. A separate report by the National Foundation for Educational Research in 2021 recorded improved concentration in the same group across unrelated subjects.<br><br><b>Passage 3</b><br>Music teachers will also tell you that they can sense at once which children practise at home, and this impression is widely shared in the profession. Parents often remark that their children seem calmer after a lesson. It is worth adding that the violin in its modern form was developed in northern Italy during the sixteenth century, and that the instruments of that period are still admired for their varnish and their scroll work.<br><br><b>Passage 4</b><br>Against all this stands the lazy, corrosive fashion for letting children abandon an instrument the moment it becomes difficult. Every parent who permits this is teaching a child that effort is optional. Naturally, any thoughtful person already accepts that persistence must be taught young. Those who disagree have evidently not considered the matter seriously, for the case has always been perfectly plain.",
+        "question": "In the phrase \"the lazy, corrosive fashion for letting children abandon an instrument\", which word most neutrally replaces \"corrosive\" while preserving the meaning?",
+        "options": [
+          {
+            "text": "poisonous"
+          },
+          {
+            "text": "destructive"
+          },
+          {
+            "text": "damaging"
+          },
+          {
+            "text": "shameful"
+          }
+        ],
+        "answer": 2
+      },
+      {
+        "questionNo": 8,
+        "story": "<b>On Learning an Instrument</b><br><br><b>Passage 1</b><br>There is no better use of a young person’s evening than an hour spent with a musical instrument. Music is not a hobby to be picked up when homework allows. It is a discipline, and every child who is denied it will grow into an adult poorer in every faculty that matters. Schools that treat music as an optional extra have simply not understood what they are dealing with.<br><br><b>Passage 2</b><br>The evidence is considerable. A 2019 study at the University of Helsinki followed one thousand two hundred pupils over six years and found that those receiving weekly instrumental tuition scored nineteen per cent higher in working memory tests than those who did not. A separate report by the National Foundation for Educational Research in 2021 recorded improved concentration in the same group across unrelated subjects.<br><br><b>Passage 3</b><br>Music teachers will also tell you that they can sense at once which children practise at home, and this impression is widely shared in the profession. Parents often remark that their children seem calmer after a lesson. It is worth adding that the violin in its modern form was developed in northern Italy during the sixteenth century, and that the instruments of that period are still admired for their varnish and their scroll work.<br><br><b>Passage 4</b><br>Against all this stands the lazy, corrosive fashion for letting children abandon an instrument the moment it becomes difficult. Every parent who permits this is teaching a child that effort is optional. Naturally, any thoughtful person already accepts that persistence must be taught young. Those who disagree have evidently not considered the matter seriously, for the case has always been perfectly plain.",
+        "question": "Which of the following sentences from the passage contains a generalisation?",
+        "options": [
+          {
+            "text": "\"Every child who is denied it will grow into an adult poorer in every faculty that matters.\""
+          },
+          {
+            "text": "\"A separate report by the National Foundation for Educational Research was published in 2021.\""
+          },
+          {
+            "text": "\"The violin in its modern form was developed during the sixteenth century.\""
+          },
+          {
+            "text": "\"Pupils receiving weekly tuition scored nineteen per cent higher in working memory tests.\""
+          }
+        ],
+        "answer": 0
+      },
+      {
+        "questionNo": 9,
+        "story": "<b>On Learning an Instrument</b><br><br><b>Passage 1</b><br>There is no better use of a young person’s evening than an hour spent with a musical instrument. Music is not a hobby to be picked up when homework allows. It is a discipline, and every child who is denied it will grow into an adult poorer in every faculty that matters. Schools that treat music as an optional extra have simply not understood what they are dealing with.<br><br><b>Passage 2</b><br>The evidence is considerable. A 2019 study at the University of Helsinki followed one thousand two hundred pupils over six years and found that those receiving weekly instrumental tuition scored nineteen per cent higher in working memory tests than those who did not. A separate report by the National Foundation for Educational Research in 2021 recorded improved concentration in the same group across unrelated subjects.<br><br><b>Passage 3</b><br>Music teachers will also tell you that they can sense at once which children practise at home, and this impression is widely shared in the profession. Parents often remark that their children seem calmer after a lesson. It is worth adding that the violin in its modern form was developed in northern Italy during the sixteenth century, and that the instruments of that period are still admired for their varnish and their scroll work.<br><br><b>Passage 4</b><br>Against all this stands the lazy, corrosive fashion for letting children abandon an instrument the moment it becomes difficult. Every parent who permits this is teaching a child that effort is optional. Naturally, any thoughtful person already accepts that persistence must be taught young. Those who disagree have evidently not considered the matter seriously, for the case has always been perfectly plain.",
+        "question": "Which sentence relies on an assumption, treating a debatable position as if it were already settled?",
+        "options": [
+          {
+            "text": "\"Music is not a hobby to be picked up when homework allows.\""
+          },
+          {
+            "text": "\"The instruments of that period are still admired for their varnish.\""
+          },
+          {
+            "text": "\"Naturally, any thoughtful person already accepts that persistence must be taught young.\""
+          },
+          {
+            "text": "\"A 2019 study followed one thousand two hundred pupils over six years.\""
+          }
+        ],
+        "answer": 2
+      },
+      {
+        "questionNo": 10,
+        "story": "<b>On Learning an Instrument</b><br><br><b>Passage 1</b><br>There is no better use of a young person’s evening than an hour spent with a musical instrument. Music is not a hobby to be picked up when homework allows. It is a discipline, and every child who is denied it will grow into an adult poorer in every faculty that matters. Schools that treat music as an optional extra have simply not understood what they are dealing with.<br><br><b>Passage 2</b><br>The evidence is considerable. A 2019 study at the University of Helsinki followed one thousand two hundred pupils over six years and found that those receiving weekly instrumental tuition scored nineteen per cent higher in working memory tests than those who did not. A separate report by the National Foundation for Educational Research in 2021 recorded improved concentration in the same group across unrelated subjects.<br><br><b>Passage 3</b><br>Music teachers will also tell you that they can sense at once which children practise at home, and this impression is widely shared in the profession. Parents often remark that their children seem calmer after a lesson. It is worth adding that the violin in its modern form was developed in northern Italy during the sixteenth century, and that the instruments of that period are still admired for their varnish and their scroll work.<br><br><b>Passage 4</b><br>Against all this stands the lazy, corrosive fashion for letting children abandon an instrument the moment it becomes difficult. Every parent who permits this is teaching a child that effort is optional. Naturally, any thoughtful person already accepts that persistence must be taught young. Those who disagree have evidently not considered the matter seriously, for the case has always been perfectly plain.",
+        "question": "Which of the following has the writer most significantly excluded?",
+        "options": [
+          {
+            "text": "The names of the researchers who conducted the Helsinki study"
+          },
+          {
+            "text": "The exact cost of purchasing a musical instrument"
+          },
+          {
+            "text": "Any reason a child might reasonably stop learning an instrument, or any evidence that other activities produce similar benefits"
+          },
+          {
+            "text": "The number of hours each pupil practised per week"
+          }
+        ],
+        "answer": 2
+      }
+    ]
+  },
+  {
+    "heading": "Poetic Devices",
+    "questions": [
+      {
+        "questionNo": 11,
+        "story": "<b>Break, Break, Break</b><br>by Alfred, Lord Tennyson<br><br><b>Stanza 1</b><br>Break, break, break,<br>On thy cold gray stones, O Sea!<br>And I would that my tongue could utter<br>The thoughts that arise in me.<br><br><b>Stanza 2</b><br>O, well for the fisherman’s boy,<br>That he shouts with his sister at play!<br>O, well for the sailor lad,<br>That he sings in his boat on the bay!<br><br><b>Stanza 3</b><br>And the stately ships go on<br>To their haven under the hill;<br>But O for the touch of a vanish’d hand,<br>And the sound of a voice that is still!<br><br><b>Stanza 4</b><br>Break, break, break,<br>At the foot of thy crags, O Sea!<br>But the tender grace of a day that is dead<br>Will never come back to me.",
+        "question": "Read the opening line of the poem:<br><i>\"Break, break, break,\"</i><br>Which poetic device is predominantly used in this line?",
+        "options": [
+          {
+            "text": "Simile, because the waves are compared to something using \"like\" or \"as\""
+          },
+          {
+            "text": "Repetition, because the same word is used three times in succession"
+          },
+          {
+            "text": "Assonance, because the same vowel sound recurs across different words"
+          },
+          {
+            "text": "Enjambment, because the sense of the line runs on into the next"
+          }
+        ],
+        "answer": 1
+      },
+      {
+        "questionNo": 12,
+        "story": "<b>Break, Break, Break</b><br>by Alfred, Lord Tennyson<br><br><b>Stanza 1</b><br>Break, break, break,<br>On thy cold gray stones, O Sea!<br>And I would that my tongue could utter<br>The thoughts that arise in me.<br><br><b>Stanza 2</b><br>O, well for the fisherman’s boy,<br>That he shouts with his sister at play!<br>O, well for the sailor lad,<br>That he sings in his boat on the bay!<br><br><b>Stanza 3</b><br>And the stately ships go on<br>To their haven under the hill;<br>But O for the touch of a vanish’d hand,<br>And the sound of a voice that is still!<br><br><b>Stanza 4</b><br>Break, break, break,<br>At the foot of thy crags, O Sea!<br>But the tender grace of a day that is dead<br>Will never come back to me.",
+        "question": "Which of the following correctly states the category that repetition belongs to (as a poetic device)?",
+        "options": [
+          {
+            "text": "A device of sound, because the repeated word is pleasing when read aloud"
+          },
+          {
+            "text": "A device of meaning, because the repetition deepens our understanding of the sea"
+          },
+          {
+            "text": "A device of structure, because it determines where each stanza begins and ends"
+          },
+          {
+            "text": "A device of rhythm, because the repetition controls pace and creates a pattern of emphasis"
+          }
+        ],
+        "answer": 3
+      },
+      {
+        "questionNo": 13,
+        "story": "<b>Break, Break, Break</b><br>by Alfred, Lord Tennyson<br><br><b>Stanza 1</b><br>Break, break, break,<br>On thy cold gray stones, O Sea!<br>And I would that my tongue could utter<br>The thoughts that arise in me.<br><br><b>Stanza 2</b><br>O, well for the fisherman’s boy,<br>That he shouts with his sister at play!<br>O, well for the sailor lad,<br>That he sings in his boat on the bay!<br><br><b>Stanza 3</b><br>And the stately ships go on<br>To their haven under the hill;<br>But O for the touch of a vanish’d hand,<br>And the sound of a voice that is still!<br><br><b>Stanza 4</b><br>Break, break, break,<br>At the foot of thy crags, O Sea!<br>But the tender grace of a day that is dead<br>Will never come back to me.",
+        "question": "A teacher asks four students to find a line from the poem containing a clear example of alliteration.<br><i>&bull;&nbsp;&nbsp;&nbsp;Jake picks: \"And I would that my tongue could utter\"<br>&bull;&nbsp;&nbsp;&nbsp;Lena picks: \"O, well for the sailor lad, / That he sings in his boat on the bay!\"<br>&bull;&nbsp;&nbsp;&nbsp;Omar picks: \"And the sound of a voice that is still!\"<br>&bull;&nbsp;&nbsp;&nbsp;Priya picks: \"The thoughts that arise in me.\"</i><br>Which student has correctly identified a line containing alliteration?",
+        "options": [
+          {
+            "text": "Only Jake"
+          },
+          {
+            "text": "Only Lena"
+          },
+          {
+            "text": "Only Omar"
+          },
+          {
+            "text": "Only Priya"
+          }
+        ],
+        "answer": 1
+      },
+      {
+        "questionNo": 14,
+        "story": "<b>Break, Break, Break</b><br>by Alfred, Lord Tennyson<br><br><b>Stanza 1</b><br>Break, break, break,<br>On thy cold gray stones, O Sea!<br>And I would that my tongue could utter<br>The thoughts that arise in me.<br><br><b>Stanza 2</b><br>O, well for the fisherman’s boy,<br>That he shouts with his sister at play!<br>O, well for the sailor lad,<br>That he sings in his boat on the bay!<br><br><b>Stanza 3</b><br>And the stately ships go on<br>To their haven under the hill;<br>But O for the touch of a vanish’d hand,<br>And the sound of a voice that is still!<br><br><b>Stanza 4</b><br>Break, break, break,<br>At the foot of thy crags, O Sea!<br>But the tender grace of a day that is dead<br>Will never come back to me.",
+        "question": "A student says the line \"On thy cold gray stones, O Sea!\" contains alliteration, because \"cold\" and \"gray\" both begin with hard consonant sounds.<br>Is the student correct?",
+        "options": [
+          {
+            "text": "Yes, because two words with hard consonant sounds standing close together always create alliteration"
+          },
+          {
+            "text": "No, because \"cold\" begins with a \"k\" sound and \"gray\" begins with a \"g\" sound, so they do not share the same initial consonant sound"
+          },
+          {
+            "text": "Yes, because both words describe the same object and are therefore linked in sound"
+          },
+          {
+            "text": "No, because alliteration requires at least four words sharing the same sound"
+          }
+        ],
+        "answer": 1
+      },
+      {
+        "questionNo": 15,
+        "story": "<b>Break, Break, Break</b><br>by Alfred, Lord Tennyson<br><br><b>Stanza 1</b><br>Break, break, break,<br>On thy cold gray stones, O Sea!<br>And I would that my tongue could utter<br>The thoughts that arise in me.<br><br><b>Stanza 2</b><br>O, well for the fisherman’s boy,<br>That he shouts with his sister at play!<br>O, well for the sailor lad,<br>That he sings in his boat on the bay!<br><br><b>Stanza 3</b><br>And the stately ships go on<br>To their haven under the hill;<br>But O for the touch of a vanish’d hand,<br>And the sound of a voice that is still!<br><br><b>Stanza 4</b><br>Break, break, break,<br>At the foot of thy crags, O Sea!<br>But the tender grace of a day that is dead<br>Will never come back to me.",
+        "question": "Two students analyse these lines:<br><i>\"But O for the touch of a vanish’d hand, / And the sound of a voice that is still!\"<br>&bull;&nbsp;&nbsp;&nbsp;Alex says the dominant device is imagery, since \"touch\" and \"sound\" create a vivid sensory picture of the person who has gone.<br>&bull;&nbsp;&nbsp;&nbsp;Frodo says there is also anaphora, since both lines begin with a linking word and repeat the same grammatical shape.</i><br>Which student is correct?",
+        "options": [
+          {
+            "text": "Only Alex, since imagery is dominant and the repeated shape is accidental"
+          },
+          {
+            "text": "Only Frodo, since the repeated structure overrides the sensory detail"
+          },
+          {
+            "text": "Both students, since the sensory imagery and the repeated grammatical shape operate together"
+          },
+          {
+            "text": "Neither student, since the dominant device is simile"
+          }
+        ],
+        "answer": 2
+      }
+    ]
+  },
+  {
+    "heading": "Poetry Analysis Part 1",
+    "questions": [
+      {
+        "questionNo": 16,
+        "story": "<b>Break, Break, Break</b><br>by Alfred, Lord Tennyson<br><br><b>Stanza 1</b><br>Break, break, break,<br>On thy cold gray stones, O Sea!<br>And I would that my tongue could utter<br>The thoughts that arise in me.<br><br><b>Stanza 2</b><br>O, well for the fisherman’s boy,<br>That he shouts with his sister at play!<br>O, well for the sailor lad,<br>That he sings in his boat on the bay!<br><br><b>Stanza 3</b><br>And the stately ships go on<br>To their haven under the hill;<br>But O for the touch of a vanish’d hand,<br>And the sound of a voice that is still!<br><br><b>Stanza 4</b><br>Break, break, break,<br>At the foot of thy crags, O Sea!<br>But the tender grace of a day that is dead<br>Will never come back to me.",
+        "question": "What is the subject of the poem?",
+        "options": [
+          {
+            "text": "The fisherman’s boy and his sister at play"
+          },
+          {
+            "text": "The stately ships sailing toward the harbour"
+          },
+          {
+            "text": "The speaker’s grief for someone who has died"
+          },
+          {
+            "text": "The sea and the coastline it wears away"
+          }
+        ],
+        "answer": 2
+      },
+      {
+        "questionNo": 17,
+        "story": "<b>Break, Break, Break</b><br>by Alfred, Lord Tennyson<br><br><b>Stanza 1</b><br>Break, break, break,<br>On thy cold gray stones, O Sea!<br>And I would that my tongue could utter<br>The thoughts that arise in me.<br><br><b>Stanza 2</b><br>O, well for the fisherman’s boy,<br>That he shouts with his sister at play!<br>O, well for the sailor lad,<br>That he sings in his boat on the bay!<br><br><b>Stanza 3</b><br>And the stately ships go on<br>To their haven under the hill;<br>But O for the touch of a vanish’d hand,<br>And the sound of a voice that is still!<br><br><b>Stanza 4</b><br>Break, break, break,<br>At the foot of thy crags, O Sea!<br>But the tender grace of a day that is dead<br>Will never come back to me.",
+        "question": "What do the opening lines signal about the poem, before we read any further?",
+        "options": [
+          {
+            "text": "That the poem will describe a storm at sea"
+          },
+          {
+            "text": "That something relentless and unstoppable is at work, repeating without pause"
+          },
+          {
+            "text": "That the speaker is about to set out on a voyage"
+          },
+          {
+            "text": "That the poem will be cheerful and energetic"
+          }
+        ],
+        "answer": 1
+      },
+      {
+        "questionNo": 18,
+        "story": "<b>Break, Break, Break</b><br>by Alfred, Lord Tennyson<br><br><b>Stanza 1</b><br>Break, break, break,<br>On thy cold gray stones, O Sea!<br>And I would that my tongue could utter<br>The thoughts that arise in me.<br><br><b>Stanza 2</b><br>O, well for the fisherman’s boy,<br>That he shouts with his sister at play!<br>O, well for the sailor lad,<br>That he sings in his boat on the bay!<br><br><b>Stanza 3</b><br>And the stately ships go on<br>To their haven under the hill;<br>But O for the touch of a vanish’d hand,<br>And the sound of a voice that is still!<br><br><b>Stanza 4</b><br>Break, break, break,<br>At the foot of thy crags, O Sea!<br>But the tender grace of a day that is dead<br>Will never come back to me.",
+        "question": "What is literally happening in the second stanza?",
+        "options": [
+          {
+            "text": "The speaker watches a fisherman’s boy playing with his sister and a sailor lad singing in his boat"
+          },
+          {
+            "text": "The speaker joins the children in their game beside the water"
+          },
+          {
+            "text": "The speaker calls out to the boy and the sailor but receives no answer"
+          },
+          {
+            "text": "The speaker remembers his own childhood on the same shore"
+          }
+        ],
+        "answer": 0
+      },
+      {
+        "questionNo": 19,
+        "story": "<b>Break, Break, Break</b><br>by Alfred, Lord Tennyson<br><br><b>Stanza 1</b><br>Break, break, break,<br>On thy cold gray stones, O Sea!<br>And I would that my tongue could utter<br>The thoughts that arise in me.<br><br><b>Stanza 2</b><br>O, well for the fisherman’s boy,<br>That he shouts with his sister at play!<br>O, well for the sailor lad,<br>That he sings in his boat on the bay!<br><br><b>Stanza 3</b><br>And the stately ships go on<br>To their haven under the hill;<br>But O for the touch of a vanish’d hand,<br>And the sound of a voice that is still!<br><br><b>Stanza 4</b><br>Break, break, break,<br>At the foot of thy crags, O Sea!<br>But the tender grace of a day that is dead<br>Will never come back to me.",
+        "question": "What changes between the second stanza and the third?",
+        "options": [
+          {
+            "text": "The poem moves from evening to morning"
+          },
+          {
+            "text": "The sea grows rougher and begins to threaten the boats"
+          },
+          {
+            "text": "The speaker decides to go down to the shore and join the others"
+          },
+          {
+            "text": "The poem moves from the happiness of others to what the speaker himself has lost"
+          }
+        ],
+        "answer": 3
+      },
+      {
+        "questionNo": 20,
+        "story": "<b>Break, Break, Break</b><br>by Alfred, Lord Tennyson<br><br><b>Stanza 1</b><br>Break, break, break,<br>On thy cold gray stones, O Sea!<br>And I would that my tongue could utter<br>The thoughts that arise in me.<br><br><b>Stanza 2</b><br>O, well for the fisherman’s boy,<br>That he shouts with his sister at play!<br>O, well for the sailor lad,<br>That he sings in his boat on the bay!<br><br><b>Stanza 3</b><br>And the stately ships go on<br>To their haven under the hill;<br>But O for the touch of a vanish’d hand,<br>And the sound of a voice that is still!<br><br><b>Stanza 4</b><br>Break, break, break,<br>At the foot of thy crags, O Sea!<br>But the tender grace of a day that is dead<br>Will never come back to me.",
+        "question": "What is the mood of the poem?",
+        "options": [
+          {
+            "text": "Sorrowful and inconsolable, weighted by a loss that cannot be undone"
+          },
+          {
+            "text": "Peaceful and contented, as the speaker watches the sea"
+          },
+          {
+            "text": "Angry and bitter toward those who are happy"
+          },
+          {
+            "text": "Hopeful, since the speaker expects the lost person to return"
+          }
+        ],
+        "answer": 0
+      }
+    ]
+  },
+  {
+    "heading": "Poetry Analysis Part 2",
+    "questions": [
+      {
+        "questionNo": 21,
+        "story": "<b>Break, Break, Break</b><br>by Alfred, Lord Tennyson<br><br><b>Stanza 1</b><br>Break, break, break,<br>On thy cold gray stones, O Sea!<br>And I would that my tongue could utter<br>The thoughts that arise in me.<br><br><b>Stanza 2</b><br>O, well for the fisherman’s boy,<br>That he shouts with his sister at play!<br>O, well for the sailor lad,<br>That he sings in his boat on the bay!<br><br><b>Stanza 3</b><br>And the stately ships go on<br>To their haven under the hill;<br>But O for the touch of a vanish’d hand,<br>And the sound of a voice that is still!<br><br><b>Stanza 4</b><br>Break, break, break,<br>At the foot of thy crags, O Sea!<br>But the tender grace of a day that is dead<br>Will never come back to me.",
+        "question": "What does the sea most likely symbolise in this poem?",
+        "options": [
+          {
+            "text": "The speaker’s hope that the lost person will return"
+          },
+          {
+            "text": "Time and nature continuing indifferently, unchanged by any human grief"
+          },
+          {
+            "text": "The danger faced by sailors and fishermen along the coast"
+          },
+          {
+            "text": "The voyage the speaker intends to make in search of comfort"
+          }
+        ],
+        "answer": 1
+      },
+      {
+        "questionNo": 22,
+        "story": "<b>Break, Break, Break</b><br>by Alfred, Lord Tennyson<br><br><b>Stanza 1</b><br>Break, break, break,<br>On thy cold gray stones, O Sea!<br>And I would that my tongue could utter<br>The thoughts that arise in me.<br><br><b>Stanza 2</b><br>O, well for the fisherman’s boy,<br>That he shouts with his sister at play!<br>O, well for the sailor lad,<br>That he sings in his boat on the bay!<br><br><b>Stanza 3</b><br>And the stately ships go on<br>To their haven under the hill;<br>But O for the touch of a vanish’d hand,<br>And the sound of a voice that is still!<br><br><b>Stanza 4</b><br>Break, break, break,<br>At the foot of thy crags, O Sea!<br>But the tender grace of a day that is dead<br>Will never come back to me.",
+        "question": "Is \"a voice that is still\" best understood as a conventional symbol or a contextual symbol, and why?",
+        "options": [
+          {
+            "text": "Conventional, because a silenced voice has long stood for death across literature and ordinary speech"
+          },
+          {
+            "text": "Contextual, because the poem explains in a footnote exactly whose voice is meant"
+          },
+          {
+            "text": "Conventional, because stillness always symbolises peace specifically"
+          },
+          {
+            "text": "Contextual, because the phrase means only that somebody has stopped talking"
+          }
+        ],
+        "answer": 0
+      },
+      {
+        "questionNo": 23,
+        "story": "<b>Break, Break, Break</b><br>by Alfred, Lord Tennyson<br><br><b>Stanza 1</b><br>Break, break, break,<br>On thy cold gray stones, O Sea!<br>And I would that my tongue could utter<br>The thoughts that arise in me.<br><br><b>Stanza 2</b><br>O, well for the fisherman’s boy,<br>That he shouts with his sister at play!<br>O, well for the sailor lad,<br>That he sings in his boat on the bay!<br><br><b>Stanza 3</b><br>And the stately ships go on<br>To their haven under the hill;<br>But O for the touch of a vanish’d hand,<br>And the sound of a voice that is still!<br><br><b>Stanza 4</b><br>Break, break, break,<br>At the foot of thy crags, O Sea!<br>But the tender grace of a day that is dead<br>Will never come back to me.",
+        "question": "What contrast operates between the second stanza and the third?",
+        "options": [
+          {
+            "text": "The contrast between morning and evening on the same shore"
+          },
+          {
+            "text": "The contrast between the sea and the land that borders it"
+          },
+          {
+            "text": "The contrast between the living, who continue happily about their business, and the dead, who cannot be reached"
+          },
+          {
+            "text": "The contrast between the fisherman’s boy and the sailor lad, who lead different lives"
+          }
+        ],
+        "answer": 2
+      },
+      {
+        "questionNo": 24,
+        "story": "<b>Break, Break, Break</b><br>by Alfred, Lord Tennyson<br><br><b>Stanza 1</b><br>Break, break, break,<br>On thy cold gray stones, O Sea!<br>And I would that my tongue could utter<br>The thoughts that arise in me.<br><br><b>Stanza 2</b><br>O, well for the fisherman’s boy,<br>That he shouts with his sister at play!<br>O, well for the sailor lad,<br>That he sings in his boat on the bay!<br><br><b>Stanza 3</b><br>And the stately ships go on<br>To their haven under the hill;<br>But O for the touch of a vanish’d hand,<br>And the sound of a voice that is still!<br><br><b>Stanza 4</b><br>Break, break, break,<br>At the foot of thy crags, O Sea!<br>But the tender grace of a day that is dead<br>Will never come back to me.",
+        "question": "Consider these two observations from the poem:<br><i>Observation 1: The sea breaks in exactly the same way in the final stanza as it did in the first.<br>Observation 2: The speaker states that the tender grace of a day that is dead will never come back to him.</i><br>Which statement best expresses the theme built from these observations?",
+        "options": [
+          {
+            "text": "The sea is dangerous and should be treated with respect by those who live beside it"
+          },
+          {
+            "text": "People should spend more time with their families while they still can"
+          },
+          {
+            "text": "Grief is easier to bear when one is surrounded by happy children"
+          },
+          {
+            "text": "The world continues unchanged by private grief, and what is lost to us is not returned"
+          }
+        ],
+        "answer": 3
+      },
+      {
+        "questionNo": 25,
+        "story": "<b>Break, Break, Break</b><br>by Alfred, Lord Tennyson<br><br><b>Stanza 1</b><br>Break, break, break,<br>On thy cold gray stones, O Sea!<br>And I would that my tongue could utter<br>The thoughts that arise in me.<br><br><b>Stanza 2</b><br>O, well for the fisherman’s boy,<br>That he shouts with his sister at play!<br>O, well for the sailor lad,<br>That he sings in his boat on the bay!<br><br><b>Stanza 3</b><br>And the stately ships go on<br>To their haven under the hill;<br>But O for the touch of a vanish’d hand,<br>And the sound of a voice that is still!<br><br><b>Stanza 4</b><br>Break, break, break,<br>At the foot of thy crags, O Sea!<br>But the tender grace of a day that is dead<br>Will never come back to me.",
+        "question": "Which line most directly supports the theme identified above?",
+        "options": [
+          {
+            "text": "\"O, well for the fisherman’s boy\""
+          },
+          {
+            "text": "\"But the tender grace of a day that is dead / Will never come back to me.\""
+          },
+          {
+            "text": "\"And the stately ships go on / To their haven under the hill\""
+          },
+          {
+            "text": "\"And I would that my tongue could utter\""
+          }
+        ],
+        "answer": 1
+      }
+    ]
+  }
+
+
+
+
+                 
+      
+  ]
+}
